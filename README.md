@@ -83,6 +83,6 @@ To create a calm mix:
 
 Contributions are welcome! Feel free to submit pull requests to add new features or report any issues.
 
-## License
+## Output
 
-This project is open-source under the MIT License.
+![Screenshot 2024-10-29 172157](https://github.com/user-attachments/assets/aa6dfe14-97fc-4f72-8ee3-f0be1a51992c)
